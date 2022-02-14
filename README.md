@@ -1,7 +1,8 @@
 ### Olá, me chamo Lucas Gonçalves! Seja Bem vindo ao meu perfil!
 
 - 🔭 Atualmente trabalho como Desenvolvedor Full Stack
-- 🌱 Estudando Javascript e Typescript
+- 📘 Conhecimento em HTML, CSS, Javascript e PHP
+- 📚 Estudando React.js e Typescript
 
 <div align="center">
   <a href="https://github.com/lucasgabriel13">
