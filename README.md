@@ -2,7 +2,7 @@
 
 - 🌱 I'm currently learning Javascript, Typescript, ReactJS
 - 💬 Ask me about Front-end development, Javascript, ReactJS
-- 📫 How to reach me [click here!](https://www.linkedin.com/in/lucas-gon%C3%A7alves-96719b16a/)
+- 📫 How to reach me [click here!](https://lucasgoncalves.vercel.app/)
 - 🚀 Always looking for the next level!
   
 ## 🛠  Tech Stack
