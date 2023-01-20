@@ -18,8 +18,8 @@
 ## ⚙️  GitHub Analytics
 <div align="center">
   <a href="https://github.com/lucasgabriel13">
-  <img height="180em" src="https://api-github-analytics-16bp.vercel.app/api?theme=tokyonight&include_all_commits=true&count_private=true&username=lucasgabriel13&show_icons=true"/>
-  <img height="180em" src="https://api-github-analytics-16bp.vercel.app/api/top-langs/?username=lucasgabriel13&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://api-github-analytics-16bp.vercel.app/api?theme=dark&include_all_commits=true&count_private=true&username=lucasgabriel13&show_icons=true"/>
+  <img height="180em" src="https://api-github-analytics-16bp.vercel.app/api/top-langs/?username=lucasgabriel13&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## 👥 Connect With Me
