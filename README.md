@@ -1,4 +1,4 @@
-![capa (1)](https://user-images.githubusercontent.com/44211093/234111011-5a762fb3-a37c-47d5-a7cf-47d7ec6b2b43.jpg)
+![capa](https://user-images.githubusercontent.com/44211093/234111400-858dcd8c-0d60-4068-a487-81202994b596.jpg)
 
 - 🌱 I'm currently learning Javascript, Typescript, ReactJS
 - 💬 Ask me about Front-end development, Javascript, ReactJS
