@@ -1,6 +1,6 @@
 ![capa](https://user-images.githubusercontent.com/44211093/234111400-858dcd8c-0d60-4068-a487-81202994b596.jpg)
 
-- [ ] 🌱 I'm currently learning Javascript, Typescript, ReactJS
+- [ ] 👨🏻‍💻 Software Developer
 - [ ] 💬 Ask me about Front-end development, Javascript, ReactJS
 - [ ] 📫 About me [click here!](https://lucasgoncalves.vercel.app/)
 - [ ] 🚀 Always looking for the next level!
